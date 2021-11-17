@@ -3,7 +3,7 @@ entries:
   amq-streams-operator:
   - apiVersion: v2
     appVersion: 1.7.3
-    created: "2021-11-17T20:38:46.954855799+05:30"
+    created: "2021-11-17T22:38:36.816901247+05:30"
     description: A Helm chart for Kubernetes
     digest: 2fa1c4152999db665d35ede46f77b781dc2c1593d6623af2a8106ec1918183de
     name: amq-streams-operator
@@ -13,7 +13,16 @@ entries:
     version: 1.0.3
   kafka-as-a-service:
   - apiVersion: v2
-    created: "2021-11-17T20:38:46.955461323+05:30"
+    created: "2021-11-17T22:38:36.818155472+05:30"
+    description: A Helm chart for Kubernetes
+    digest: dd587478f06ba442ca918dcba4e3d22d0eef4f636f3dd09e48dd355b53ff3883
+    name: kafka-as-a-service
+    type: application
+    urls:
+    - https://mihirl.github.io/helm-chart/kafka-as-a-service-1.0.6.tgz
+    version: 1.0.6
+  - apiVersion: v2
+    created: "2021-11-17T22:38:36.817545256+05:30"
     description: A Helm chart for Kubernetes
     digest: 2bcb2341ab24b557c7ac76da582bf8978d20f418bddcff825fcf02a74939332d
     name: kafka-as-a-service
@@ -21,4 +30,4 @@ entries:
     urls:
     - https://mihirl.github.io/helm-chart/kafka-as-a-service-1.0.5.tgz
     version: 1.0.5
-generated: "2021-11-17T20:38:46.95445779+05:30"
+generated: "2021-11-17T22:38:36.816489326+05:30"
